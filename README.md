@@ -1,1 +1,1 @@
-Thanks to ** Jekyll Now ** for the initial template.
+Thanks to **Jekyll Now** for the initial template.
