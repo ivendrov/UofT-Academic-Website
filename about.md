@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
+I'm an MSc student working with [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun) and [Sanja Fidler](http://www.cs.toronto.edu/~fidler) in the intersection of computer vision and natural language processing.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+vendrov (at) cs (dot) toronto (dot) edu
