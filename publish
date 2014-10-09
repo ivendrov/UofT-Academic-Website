@@ -1,0 +1,1 @@
+rsync -av _site/ vendrov@cs.toronto.edu:~/public_html
